@@ -6,12 +6,12 @@ Portfolio cá nhân dạng website tĩnh, giới thiệu thông tin, kỹ năng,
 
 - **Tên sản phẩm:** Portfolio CV cá nhân
 - **Tên repository:** K20_Lab6
-- **Tác giả hiển thị trong `index.html` của workspace:** Bui Duc Duy
+- **Tác giả hiển thị trong website:** Bùi Đức Duy
 - **Hồ sơ GitHub được gắn trong trang:** [CutChoDenXi](https://github.com/CutChoDenXi)
 - **Repository:** [vanhkazen/K20_Lab6](https://github.com/vanhkazen/K20_Lab6)
 - **GitHub Pages:** [https://vanhkazen.github.io/K20_Lab6/](https://vanhkazen.github.io/K20_Lab6/)
 
-> **Lưu ý khi bàn giao:** URL Pages đang truy cập được, nhưng bản xuất bản hiện hiển thị tên Trần Việt Anh, trong khi `index.html` tại workspace hiển thị Bui Duc Duy. Trang `ket-qua.html` trong workspace cũng còn nội dung nhận diện Việt Anh. Ngoài ra, email hiển thị trên trang chủ khác địa chỉ trong liên kết `mailto:`. Hãy thống nhất tên và thông tin liên hệ trên hai trang rồi xuất bản lại trước khi giới thiệu đây là bản hoàn chỉnh của tác giả. URL hồ sơ trên trang và chủ sở hữu repository cũng khác nhau; xác nhận đó là chủ ý.
+> **Lưu ý khi bàn giao:** URL Pages đang truy cập được nhưng có thể chưa phản ánh phiên bản mới nhất trong workspace. Hãy xuất bản lại sau khi hoàn tất thay đổi và xác nhận các liên kết hồ sơ, repository là chính xác.
 
 ## Cấu trúc thư mục
 
